@@ -1,5 +1,5 @@
 
-# Machine Learning System Design ReadMe
+# Machine Learning System Design
 
 ## General Introduction
 
